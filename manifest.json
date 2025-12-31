@@ -1,0 +1,15 @@
+{
+  "name": "Lady Care Pro",
+  "short_name": "Lady Care",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#ff4d94",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/calendar-2026.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
